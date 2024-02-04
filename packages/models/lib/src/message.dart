@@ -1,6 +1,5 @@
 import 'package:equatable/equatable.dart';
 import 'package:uuid/uuid.dart';
-
 import '../models.dart';
 
 class Message extends Equatable {

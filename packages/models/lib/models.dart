@@ -1,3 +1,3 @@
 library models;
 
-export 'models.dart';
+export 'src/models.dart';
